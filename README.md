@@ -30,6 +30,9 @@ _This figure was created with [Whimsical](https://whimsical.com/)_
 
 ## Database Schema
 
+![Benchling DB Schema](figures/Benchling_DB_Schema.png)
+_This figure was created with [Whimsical](https://whimsical.com/)_
+
 ### Example of models.py
 
 <!---TODO BaseTable Model-->
