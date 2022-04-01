@@ -7,7 +7,6 @@ Design Challenge: Designing the backend of [Benchling Notebook](https://www.benc
   - [Challenge](#challenge)
   - [Backend Architecture Design](#backend-architecture-design)
   - [Database Schema](#database-schema)
-    - [Example of models.py](#example-of-modelspy)
   - [Acknowledgements](#acknowledgements)
 
 ## Aim
@@ -33,11 +32,9 @@ _This figure was created with [Whimsical](https://whimsical.com/)_
 ![Benchling DB Schema](figures/Benchling_DB_Schema.png)
 _This figure was created with [Whimsical](https://whimsical.com/)_
 
-### Example of models.py
-
-<!---TODO BaseTable Model-->
-<!---TODO Add few tables either as Codeblock or even put the complete docker-compose part including the first architecture -->
+Leveraging the django ORM to create and manage the database. See [benchling_notebook](benchling_notebook/) folder for implementation examples.
 
 ## Acknowledgements
 
+- [Benchling notebook](https://www.benchling.com/notebook/)
 - [Whimsical](https://whimsical.com/) for quickly creating nice figures.
